@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Simple JS projects<br>👯 I’m looking to collaborate on full stack development<br>🤝 I’m looking for help with OOP in C++<br>🌱 I’m currently learning C++/JavaScript<br>💬 Ask me about how to sleep all day and wake all night<br>⚡ Fun fact - Suiiiiiii
 
 
@@ -12,13 +12,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ProfDhlX&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfDhlX&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ProfDhlX&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+###  Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
