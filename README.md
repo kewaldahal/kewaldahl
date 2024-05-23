@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/profdhlx/profdhlx/output/snake.svg" alt="Snake animation" />
+
 
 ###
