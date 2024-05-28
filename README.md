@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">I'M inconsistent learner<br><br>I added react logo over there because it's cool.. but I'm learning react since yesterday</h3>
+<h3 align="left">I'M inconsistent learner<br><br></h3>
 
 ###
 
